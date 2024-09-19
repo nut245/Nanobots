@@ -17,8 +17,8 @@ nanbot's ability to mimic antigens of cells to circumvent the attacking T-cells.
 
 This Library requires the following modules:
 
-- [Moving Toward Target](MovingTowardTarget\MainFile.py)
-- [AntigenRPG](AntigenRPG\MainFile.py)
+- [Moving Toward Target](MovingTowardTarget/MainFile.py)
+- [AntigenRPG](AntigenRPG/MainFile.py)
 
 ## Installation
 
